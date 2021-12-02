@@ -1,0 +1,69 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/blackjack.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 6%;
+    font-size: large;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+    display: block;
+}
+
+button {
+    color: #016f32;
+    width: 300px;
+    background: goldenrod;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: auto;
+    margin-top: 20px;
+    display: block;
+    
+}
+
+#input-no{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 2px solid ;
+    border-radius: 4px;
+}
+
+#input-upper{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 2px solid ;
+    border-radius: 4px;
+}
+
+#input-lower{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 2px solid ;
+    border-radius: 4px;
+}
